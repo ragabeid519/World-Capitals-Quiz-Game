@@ -32,6 +32,10 @@ An interactive quiz application built with **Flutter** to test general knowledge
 
 | Section | Description |
 
+
+https://github.com/user-attachments/assets/9941f009-79f8-498f-8856-731f625ceeec
+
+
 | :--- | :---<video controls src="quiz_questions.mp4" title="Title"></video> |
 | **Login Page** | Player entry with duplicate name validation and hall of fame display. |
 | **Quiz Arena** | Real-time question counter and interactive capital selection. |
